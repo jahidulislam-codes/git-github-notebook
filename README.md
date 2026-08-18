@@ -1,4 +1,4 @@
-# 🚀 Git & GitHub Master Reference: Zero to Hero
+# 🚀 Mastering Git & GitHub in 10 Days: From Basics to Advanced Workflows
 
 Welcome to the ultimate **Git & GitHub Master Reference Guide**. Whether you are a total beginner making your first commit or an experienced developer looking to recover from a complex merge conflict, this repository is designed as both a step-by-step learning course and an instant emergency lookup manual.
 
