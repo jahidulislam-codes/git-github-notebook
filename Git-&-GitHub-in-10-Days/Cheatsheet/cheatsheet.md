@@ -41,19 +41,20 @@ Set up local projects or retrieve remote repositories.
 
 Track modifications, stage files, and record version snapshots.
 
-| Command                               | Description                                                            |
-| :------------------------------------ | :--------------------------------------------------------------------- |
-| `git status`                          | Show current working tree and staging area status                      |
-| `git status -s`                       | Show status in compact short format                                    |
-| `git add <filename>`                  | Stage a specific file for the next commit                              |
-| `git add <file1> <file2>`             | Stage multiple specific files                                          |
-| `git add .`                           | Stage all modified and new untracked files                             |
-| `git add -A`                          | Stage all changes including deleted files across repository            |
-| `git add -p`                          | Interactively select specific hunks of changes to stage                |
-| `git commit -m "Commit message"`      | Record staged changes into commit history                              |
-| `git commit -am "Commit message"`     | Stage all tracked modified files and commit in one step                |
-| `git commit --amend -m "New message"` | Modify the last commit message without creating a new commit           |
-| `git commit --amend --no-edit`        | Add newly staged files to the previous commit without changing message |
+| Command                                   | Description                                                            |
+| :---------------------------------------- | :--------------------------------------------------------------------- |
+| `git status`                              | Show current working tree and staging area status                      |
+| `git status -s`                           | Show status in compact short format                                    |
+| `git add <filename>`                      | Stage a specific file for the next commit                              |
+| `git add <file1> <file2>`                 | Stage multiple specific files                                          |
+| `git add .`                               | Stage all modified and new untracked files                             |
+| `git add -A`                              | Stage all changes including deleted files across repository            |
+| `git add -p`                              | Interactively select specific hunks of changes to stage                |
+| `git commit -m "Commit message"`          | Record staged changes into commit history                              |
+| `git commit -am "Commit message"`         | Stage all tracked modified files and commit in one step                |
+| `git commit --amend -m "New message"`     | Modify the last commit message without creating a new commit           |
+| `git commit --amend --no-edit`            | Add newly staged files to the previous commit without changing message |
+| `git push --force-with-lease origin main` | push amend commit                                                      |
 
 ---
 

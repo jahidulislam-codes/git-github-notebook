@@ -6,15 +6,15 @@ Welcome to the ultimate **Git & GitHub Master Reference Guide**. Whether you are
 
 ## 📑 Table of Contents
 
-- [🧠 Core Mental Model](#-day-01-basics-intro)
-- [📁 Repository Architecture & Roadmap]()
-- [⚙️ Initial Setup & Configuration]()
-- [🔁 Daily Core Workflow]()
-- [🌿 Branching & Merging Strategies]()
-- [🚨 Emergency Undo & Recovery Guide]()
-- [🤝 GitHub & Collaboration Workflows]()
-- [🛠️ Power Tools & Advanced Techniques]()
-- [💡 Common Pitfalls & Troubleshooting]()
+- [🧠 Core Mental Model](#-core-mental-model)
+- [📁 Repository Architecture & Roadmap](#-repository-architecture--roadmap)
+- [⚙️ Initial Setup & Configuration](#️-initial-setup--configuration)
+- [🔁 Daily Core Workflow](#-daily-core-workflow)
+- [🌿 Branching & Merging Strategies](#-branching--merging-strategies)
+- [🚨 Emergency Undo & Recovery Guide](#-emergency-undo--recovery-guide)
+- [🤝 GitHub & Collaboration Workflows](#-github--collaboration-workflows)
+- [🛠️ Power Tools & Advanced Techniques](#️-power-tools--advanced-techniques)
+- [💡 Common Pitfalls & Troubleshooting](#-common-pitfalls--troubleshooting)
 
 ---
 
